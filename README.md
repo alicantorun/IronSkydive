@@ -1,5 +1,7 @@
-IronSkydive Site Project
--Ironhack Web Development Bootcamps-
--HTML & CSS Learning exercise website
--Implemented nothing on my behalf
--Purely practice purpose
+<h1>IronSkydive Site Project<h1>
+  <hr>
+<ul>
+  <li>HTML & CSS Learning exercise website</li>
+  <li>Implemented nothing on my behalf</li>
+  <li>Purely practice purpose</li>
+</ul>
